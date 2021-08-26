@@ -1,0 +1,215 @@
+    1  ssh  ec2-user@ec2-65-2-142-23.ap-south-1.compute.amazonaws.com
+    2  ssh  ec2-user@ec2-65-2-142-23.ap-south-1.compute.amazonaws.com
+    3  exit
+    4  cd ~/Desktop/pem_key/
+    5  ssh -i "devops.pem" ec2-user@ec2-35-154-95-47.ap-south-1.compute.amazonaws.com
+    6  ssh -i "devops.pem" ec2-user@ec2-35-154-95-47.ap-south-1.compute.amazonaws.com
+    7  ssh -i "devops.pem" ec2-user@ec2-35-154-95-47.ap-south-1.compute.amazonaws.com
+    8  exit
+    9  cd ~/Desktop/pem_key/
+   10  ssh -i "devops.pem" ec2-user@ec2-65-1-107-70.ap-south-1.compute.amazonaws.com
+   11  exit
+   12  cd ~/.ssh
+   13  cd ~/.ssh
+   14  vi ~/.ssh/config
+   15  cd ~/Desktop/pem_key/
+   16  ssh -i "devops.pem" ec2-user@ec2-65-2-142-23.ap-south-1.compute.amazonaws.com
+   17  cd ~/.ssh
+   18  ls
+   19  vi ~/.ssh/config
+   20  ls
+   21  clear
+   22  cd ~/Desktop/pem_key/
+   23  ssh -i "devops.pem" ec2-user@ec2-65-2-142-23.ap-south-1.compute.amazonaws.com
+   24  exit
+   25  exit
+   26  ssh -i "devops.pem" ec2-user@ec2-65-0-122-220.ap-south-1.compute.amazonaws.com
+   27  exit
+   28  cd ~/Desktop/pem_key/
+   29  ssh -i "devops.pem" ec2-user@ec2-65-0-122-220.ap-south-1.compute.amazonaws.com
+   30  exit
+   31  ls
+   32  clear
+   33  ls -l
+   34  cat mysql.txt 
+   35  clear
+   36  date
+   37  date +%dd+%mm+%yyyy
+   38  date +%dd+%m+%yy
+   39  date +%d+%m+%y
+   40  date +%d-%m-%y
+   41  date +%F
+   42  man date
+   43  man date
+   44  clear
+   45  cd /pem_key
+   46  cd pem_key/
+   47  ssh -i "devops.pem" ec2-user@ec2-13-233-146-181.ap-south-1.compute.amazonaws.com
+   48  ssh -i "devops.pem" ec2-user@ec2-65-0-71-137.ap-south-1.compute.amazonaws.com
+   49  exit
+   50  ssh -i "devops.pem" ec2-user@ec2-65-0-71-137.ap-south-1.compute.amazonaws.com
+   51  clear
+   52  ssh -i "devops.pem" ec2-user@ec2-65-0-71-137.ap-south-1.compute.amazonaws.com
+   53  exit
+   54  ssh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   55  exit
+   56  clear
+   57  ssh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   58  ssh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   59  exit
+   60  exissh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   61  exissh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   62  ssh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   63  ssh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   64  clear
+   65  ssh -i "devops.pem" ec2-user@ec2-35-154-43-219.ap-south-1.compute.amazonaws.com
+   66  exit
+   67  cd ~/Desktop/
+   68  git --version 
+   69  mkdir gitfiles
+   70  pwd
+   71  rmdir gitfiles/
+   72  mkdir facebook
+   73  cd facebook/
+   74  pwd
+   75  clear
+   76  git init
+   77  ls
+   78  ls -l
+   79  ls -la
+   80  ls -l | grep .
+   81  clear
+   82  ls -la
+   83  cd .git
+   84  ls
+   85  ls -la
+   86  clear
+   87  vi DButil.java
+   88  ls
+   89  git status
+   90  clear
+   91  ls
+   92  rm -f DButil.java 
+   93  ls
+   94  clear
+   95  cd ../
+   96  clear
+   97  vi DBUtil.java
+   98  clear
+   99  ls
+  100  git status
+  101  java --version
+  102  java -version
+  103  javac DBUtil.java 
+  104  vi DBUtil.java 
+  105  javac DBUtil.java 
+  106  vi DBUtil.java 
+  107  vi DBUtil.java 
+  108  javac DBUtil.java 
+  109  java DBUtil.java
+  110  java DBUtil
+  111  clear
+  112  vi String.java
+  113  git status
+  114  git add .
+  115  git status
+  116  vi deploy.sh
+  117  git status
+  118  git config --global user.name "nagesh"
+  119  git config --global user.email "nageswarreddy447@gmail.com"
+  120  git congig --global --list
+  121  git config --global --list
+  122  git commit -m "First Commit" DBUtil.til.java
+  123  git commit -m "First Commit" DBUtil.java
+  124  git status
+  125  git commit -m "Second commit"
+  126  git add *
+  127  git status
+  128  git commit -m "added deploy.sh file" deploy.sh 
+  129  git status
+  130  clear
+  131  git remote -v
+  132  git remote add facebook https://github.com/pnr-do-project-august/facebook.git
+  133  git remote -v
+  134  git push facebook master 
+  135  clear
+  136  git remote -v
+  137  vi DBUtil.java
+  138  git status
+  139  git commit -a -m "updated some code" 
+  140  git status
+  141  vi Emploee.java
+  142  git status
+  143  git commit -a -m "Committed latest"
+  144  git add Emploee.java 
+  145  git status
+  146  git commit -m "add nee employee data"
+  147  git remote -v
+  148  git push facebook master
+  149  git log
+  150  clear
+  151  git log
+  152  git log -2
+  153  git log -m
+  154  git log id
+  155  git show
+  156  git show 77a6a
+  157  git show --pretty="" --name--only 77a6a
+  158  git show --pretty="" --name-only 77a6a
+  159  git show --pretty="ddd" --name-only 77a6a
+  160  git show --pretty="" --name-only 77a6a
+  161  git log DBUtil.java
+  162  vi Test.py
+  163  vi test.sc
+  164  git status
+  165  git add .
+  166  git status
+  167  git rest
+  168  git reset
+  169  git status
+  170  git add .
+  171  git status
+  172  git reset test.sc
+  173  git status
+  174  git add .
+  175  git status
+  176  vi deploy.sh 
+  177  git status
+  178  git add .
+  179  git stats
+  180  git status
+  181  git commit -m "upted all the py sc sh"
+  182  git status
+  183  git remote -v
+  184  git push facebook 
+  185  git push facebook master
+  186   clear
+  187  git log
+  188  git revert 8a9b067f2798
+  189  ls
+  190  git status
+  191  cat deploy.sh 
+  192  git push facebook master -f
+  193  ls
+  194  exit
+  195  git status
+  196  git facebook
+  197  ls 
+  198  cd facebook/
+  199  git status
+  200  git ll
+  201  git ls
+  202  ls
+  203  ls .
+  204  ls -la
+  205  touch test.c
+  206  touch test.cpp
+  207  ls -l
+  208  git status
+  209  git clean
+  210  git clean -n
+  211  git clean -f
+  212  git status
+  213  clear
+  214  history
+  215  history > his.txt
